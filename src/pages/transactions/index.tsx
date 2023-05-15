@@ -1,4 +1,4 @@
-import { Header } from "../../components/Heade";
+import { Header } from "../../components/Header";
 import { Summary } from "../../components/Summary";
 import { SearchForm } from "./components/Searchform";
 import { PriceHighlit, TransactionTable, TransactoinsContainer } from "./style";
